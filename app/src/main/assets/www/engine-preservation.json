@@ -1,0 +1,30 @@
+{
+  "repository": "https://github.com/Naboghoiman/Bugobi",
+  "commit": "161107b9d62a5e87c735c9cbd059aa0d2f743a3b",
+  "sha256": {
+    "src/audio/AudioContextManager.ts": "c25548835f573f55d9bc9b28756b98ea160b8df3eb2f47677a501bf75c89e0b3",
+    "src/audio/DeckEngine.ts": "78edd5acb43828a5735273bb080aff843ecd6c36853742b0818f626b51f66b9f",
+    "src/audio/SyncEngine.ts": "ab6fb70fef46c9a3c8371dd1eac46b189cbecbf4187bd6b9e4ca30f9cee8a0a7",
+    "src/audio/demoTracks.ts": "1bb1a404f00a692cba9d0265dcd2ccc4489bf37055e68b37e3f550d07f48f85a",
+    "src/audio/beatgridAnalyzer.ts": "c8d2ec5a62378a58524d7fae53a0ed7f65085854512c784d88c7ad3e13ad7e99",
+    "src/audio/WaveformDisplay.tsx": "c7677e25aec1f0563fbe25b3aefcec8da3b058c41b3e39a8c8a9c4c7a6a66dea",
+    "src/services/localTrackStorage.ts": "0249d6ac65edd90da881b0b47eb3032b3dcd74940c91d9c5b679219f94a4c423",
+    "src/types.ts": "3ed2979dcb3cb1f4f99d4b70fbfc8778cc569abe5d8e2fbcc563b687a8e8d3c2"
+  },
+  "update": {
+    "version": "3.4",
+    "baseVersion": "3.3",
+    "changed": [
+      "DeckEngine scheduled transport, rate clock and native buffer looping",
+      "SyncEngine start alignment, working lock, master handover and tempo-family metrics",
+      "Play, tempo and loop transport callbacks",
+      "Robust full-recording tempo and transient-grid refinement in worker and legacy analysis"
+    ],
+    "unchanged": [
+      "Interface geometry and artwork",
+      "Sampler and groove-pad audio processors",
+      "Master effects and bass voicing",
+      "Scratch processor"
+    ]
+  }
+}

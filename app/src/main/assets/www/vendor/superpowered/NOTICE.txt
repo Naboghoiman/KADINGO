@@ -1,0 +1,2 @@
+Superpowered Web SDK 2.8.2. Unmodified vendor JS/WASM. https://superpowered.com
+This build uses the vendor example license for private evaluation. A production license is required for public distribution. https://docs.superpowered.com/getting-started/licensing/

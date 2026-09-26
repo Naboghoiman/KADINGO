@@ -1,0 +1,6 @@
+{
+  "name": "DJ IMAN 3.4 Sync",
+  "description": "Professional DJ precision synchronization mixer with dual decks, beat-grid alignment, low-latency sampler, 31-band master EQ, and speaker processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
